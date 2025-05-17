@@ -13,7 +13,7 @@
 
 # 🐍 Relearning Python with **Think Python**
 
-Welcome! This repository tracks my journey revisiting Python fundamentals using *Think Python* by Allen B. Downey.  
+Welcome! This repository tracks my journey **revisiting** Python fundamentals using *Think Python* by Allen B. Downey.  
 Each chapter has its own notebook / exercise file, and you can follow along or contribute.
 
 ---
